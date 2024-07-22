@@ -1,4 +1,4 @@
-name: myenv
+name: image_classifier
 channels:
   - defaults
 dependencies:
